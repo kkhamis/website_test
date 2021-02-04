@@ -4,8 +4,7 @@ A collection of images from the days before kids
 
 ### Keppel Road
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![2926_167474905087_3799563_n](https://user-images.githubusercontent.com/8673336/106964736-7b571200-673a-11eb-859b-e6a1c0aa465b.png)
 
 ### Jekyll Themes///
 
