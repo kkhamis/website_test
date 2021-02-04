@@ -6,6 +6,8 @@ A collection of images from the days before kids
 
 ![2926_167474905087_3799563_n](https://user-images.githubusercontent.com/8673336/106964736-7b571200-673a-11eb-859b-e6a1c0aa465b.png)
 
+![image](/assets/images/2926_167474905087_3799563_n.png)
+
 ### Jekyll Themes///
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkhamis/website_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
