@@ -7,7 +7,7 @@ A collection of images from the days before kids
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-### Jekyll Themes
+### Jekyll Themes///
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkhamis/website_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
